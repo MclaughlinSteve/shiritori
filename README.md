@@ -6,5 +6,5 @@ found [here](https://en.wikipedia.org/wiki/Shiritori)
 I'm starting with a very simple hard-coded example just to demonstrate how it is 
 supposed to go. Soon, I will update it so that you can actually play.
 
-Here is an example flow:
+### Example flow
 ![Example](./example.png)
