@@ -32,7 +32,7 @@ def extract_last_syllable(word):
 def is_word_valid(last, word):
     if last in constant.INVALID_ENDINGS \
             or previous_word != '' and not word.startswith(extract_last_syllable(previous_word)):
-        print('太平んですね。。。')
+        print('大変ですね。。。')
         return False
     return True
 
